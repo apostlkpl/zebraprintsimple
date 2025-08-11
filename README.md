@@ -2,7 +2,8 @@
 
 <br>
 It's made for Zebra ZD220 but can be used with other Zebra printers if modified.
-It has to be uploaded to Prestashop as a zip file, while maintaining the folder structure
+It has to be uploaded to Prestashop as a zip file, while maintaining the folder structure:
+
 ```
 zebraprintsimple/
 |-- zebraprintsimple.php
